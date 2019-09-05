@@ -10,3 +10,4 @@ variable "validation_method" {
 variable "zone_id" {
   default = "The Route53 Zone ID for the domain that the certificate is being requested for"
 }
+
